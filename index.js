@@ -23,7 +23,7 @@ const kvo = (context, path, value) => {
           memo = {}
         }
         memo[key] = value
-        console.log(memo)
+        // console.log(memo)
       }
     } else {
       memo = next
