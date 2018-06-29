@@ -1,6 +1,6 @@
 {
   "name": "kvo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simply use setter and getter!!!",
   "main": "index.js",
   "scripts": {
